@@ -75,7 +75,7 @@
                 <configuration>
                     <archive>
                         <manifest>
-                            <mainClass>hadoop.HadoopAppDriver</mainClass>
+                            <mainClass>com.hadoop.HadoopAppDriver</mainClass>
                         </manifest>
                     </archive>
                     <descriptorRefs>
